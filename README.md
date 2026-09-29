@@ -1,11 +1,11 @@
 # trainStation
 
-A web application designed to dynamically organize and schedule incoming and out going train traffic at a station.
+A web application designed to dynamically organize and schedule incoming and outgoing train traffic at a station.
 
 ## Technologies Used
 * **Language:** C#
 * **Framework:** ASP.NET Core Razor Pages
-* **Data base:** Entity Framework Core
+* **Database:** Entity Framework Core
 
 ## Features
 * Schedule and track incoming and outgoing train routes
@@ -17,4 +17,13 @@ To run this project locally, ensure you have the [.NET SDK](https://dotnet.micro
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/AironHerman/trainStation.git](https://github.com/AironHerman/trainStation.git)
+   git clone https://github.com/AironHerman/trainStation.git
+   ```
+2. **Navigate to the project directory:**
+   ```bash
+   cd trainStation
+   ```
+3. **Run the application:**
+   ```bash
+   dotnet run
+   ```
